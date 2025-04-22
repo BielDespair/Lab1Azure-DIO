@@ -18,3 +18,6 @@ Caso o serviço falhe em cumprir o downtime estipulado, será ressarcido uma com
 IaaS – Infrastructure as a Service: Envolve configurações de estrutura, armazenamento. Deve configurar tudo isso, além do sistema operacional, plataforma e software. <br>
 PaaS – Platform as a Service: Ambiente de desenvolvimento, para implantação de serviços.<br>
 SaaS - Software as a Service: Oferece licenças de software (Ex: pacote office)
+
+# Grupos de Recursos
+Agrupa máquinas virtuais, armazenamento e bancos de dados em grupos para melhor organização lógica.
