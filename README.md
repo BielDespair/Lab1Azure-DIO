@@ -55,6 +55,13 @@ A análise de texto pode ser usada pra extrair palavras chaves, fazendo análise
 Azure Cloud A.I disponibiliza diversas ferramentas para isto.<br>
 
 ### Speech Studio
+O SpeechToText converte fala em texto em tempo real.
+<details>
+  <summary>Speech To Text</summary>
+  
+  ![SpeechTOText](imagens/SpeechToText.png?)
+</details>
+
 
 
 
