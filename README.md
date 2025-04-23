@@ -1,4 +1,4 @@
-# LabSAzure-DIO
+# LabsAzure-DIO
 Repo para entrega dos projetos de lab BootCamp Bradesco DIO Azure Cloud
 
 
